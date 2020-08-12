@@ -1,11 +1,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nerukani&count_private=true&show_icons=true&theme=prussian" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kani15&count_private=true&show_icons=true&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerukani&theme=prussian" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kani15&theme=prussian" />
 </a>
 <!--
-**nerukani/nerukani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kani15/kani15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
