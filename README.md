@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=krabben16&count_private=true&show_icons=true&theme=prussian" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krabben16&theme=prussian" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krabben16&layout=compact&theme=prussian" />
 </a>
 <!--
 **krabben16/krabben16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
