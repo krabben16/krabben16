@@ -1,2 +1,9 @@
-- name: Metrics embed
-  uses: lowlighter/metrics@v3.24
+# https://docs.github.com/ja/actions/quickstart
+name: Metrics GitHub Actions
+on: [push]
+jobs:
+  Metrics-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.24
