@@ -53,7 +53,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_stars: yes
-          plugin_stars_limit: 7
+          plugin_stars_limit: 6
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
